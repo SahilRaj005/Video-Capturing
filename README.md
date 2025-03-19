@@ -1,10 +1,10 @@
 ## Video Capturing using NLP & Topic Modeling
 
-📌 ## Project Overview
+## 📌 Project Overview
 
 This project automates video capturing by analyzing YouTube video transcripts using Natural Language Processing (NLP) and Topic Modeling. It extracts subtitles, detects topic changes, and generates meaningful chapter titles.
 
-🚀 ## Features
+## 🚀 Features
 
 YouTube API Integration: Fetches video transcripts.
 
@@ -18,7 +18,7 @@ Keyword Extraction: Uses TF-IDF to create meaningful chapter names.
 
 Data Visualization: Plots word distributions and topic trends.
 
-🛠 ## Tech Stack
+## 🛠 Tech Stack
 
 Programming Language: Python
 
